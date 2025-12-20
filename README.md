@@ -13,6 +13,7 @@ The model is intended to support operational decision-making by illustrating how
 
 ## Intended use
 This model is designed for educational and decision-support purposes. It is suitable for small to medium-scale planning scenarios where transparency and interpretability are prioritized.
+The model prioritizes transparency and interpretability over algorithmic complexity.
 
 ## Limitations
 - The model is not automated or optimized for large-scale production use
